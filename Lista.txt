@@ -1,0 +1,7 @@
+https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
+https://mfe01.tring.al/delta/106/out/u/1114_3.m3u8
+https://mfe01.tring.al/delta/106/out/u/1117_3.m3u8
+https://mfe01.tring.al/delta/106/out/u/1115_3.m3u8
+http://tv01.logicahost.com.br:1935/tvcinec/tvcinec/live.m3u8
+https://rpn1.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8
+https://rpn1.bozztv.com/36bay2/gusa-TVSFilmNoir/index.m3u8
